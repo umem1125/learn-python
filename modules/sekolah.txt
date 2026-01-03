@@ -1,0 +1,1 @@
+{"nama": "Universitas Joko Widodo", "alamat": "jl. Lingkar Solo", "telp": 1129990, "jurusan": ["Teknik Korupsi", "Teknik 3 Periode"]}
